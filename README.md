@@ -1,12 +1,16 @@
-# Csc690-Homework2
+
+# Todo App
+
+## Author: Ermias Haile 
+
+## Csc690-Project2
 ToDo IOS App to add and edit task 
 
-## Todo App
- This app let user to add task by pressing the add button on top right corne of the app. It alows user to edit thir task and save it at finished or unfinish section. 
+ This app let user to add task by pressing the add button on top right corner. It allows user to edit their task and save it     at finished or unfinish section. 
 
 ## App requirments
 
-Requirment 1: A user should be able to see all uncompleted tasks in a UITableView: Done 
+Requirment  1: A user should be able to see all uncompleted tasks in a UITableView: Done 
 Requirement 2: A user should be able to create new tasks: Done 
 Requirement 3: A user should be able to edit a task: Done 
 Requirement 4: A user should be able to mark a task as complete: Done 
