@@ -10,9 +10,9 @@ ToDo IOS App to add and edit task
 
 ## App requirments
 
-###  Requirment  1: A user should be able to see all uncompleted tasks in a UITableView: Done 
-### Requirement 2: A user should be able to create new tasks: Done 
-### Requirement 3: A user should be able to edit a task: Done 
+Requirment  1: A user should be able to see all uncompleted tasks in a UITableView: Done <br/>
+Requirement 2: A user should be able to create new tasks: Done <br/>
+Requirement 3: A user should be able to edit a task: Done <br/> 
 ### Requirement 4: A user should be able to mark a task as complete: Done 
 ### Requirement 5: A user should be able to see all completed tasks in a UITableView: Done 
 ### Requirement 6: A user should be able to close and reopen the app without loosing any tasks: Done 
